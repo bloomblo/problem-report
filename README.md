@@ -15,5 +15,5 @@ problems during the work.
 
 ②windows下的路径经常会用双反斜杠来表示，不管解析引擎是否将反斜杠解析成转义字符，最终在内存中得到的都是"\"，因此写成"D:\\tools\\eclipse"是不会出问题的。
 
-【链接到路径差异具体说明】（http://blog.sina.com.cn/s/blog_13fe28d370102wqki.html）
+【链接到路径差异具体说明】（http://blog.sina.com.cn/s/blog_13fe28d370102wqki.html ）
 
